@@ -1,0 +1,20 @@
+/* Insert any CSS code below here */
+
+body{
+  background-color:#FFDEAD			;
+}
+
+h1{
+  color:#7B68EE;
+  font-size: 38px;
+  }
+
+
+p{
+  font-size:19px;
+  color:#7B68EE;
+  font-family:cursive;
+hr{
+color: blue;
+  
+}
